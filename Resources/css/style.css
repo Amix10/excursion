@@ -1,0 +1,41 @@
+body {
+  display: block;
+  margin: 21px;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.cta {
+  color: Aquamarine;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.newpoints {
+  color: Gray;
+  font-size: 21px;
+}
+
+p {
+  -webkit-margin-before: 21px;
+  -webkit-margin-after: 21px;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+.footer {
+  color: Gray;
+  font-size: 21px;
+  text-align: right;
+}
